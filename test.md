@@ -1,8 +1,6 @@
-
 # this is a test article
 
 this is code:
-this is not code:  
 
 ```c
 for (int i = 0; i < 10; ++i)
@@ -13,4 +11,6 @@ return 0;
 ```
 
 *****
-the end.
+>the end.  
+TestStader.SHADER  
+no more.  
