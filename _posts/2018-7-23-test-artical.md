@@ -13,3 +13,6 @@ for (int i = 0; i < 100; ++i)
 
 **Markdown**, *LaTeX?*
 *****
+[百度](http://www.google.com/)
+![aha](https://tvax1.sinaimg.cn/crop.0.0.736.736.180/9f3d6c8ely8fnu4qur21pj20kg0kgt9t.jpg)
+...
