@@ -92,8 +92,8 @@ this is a pic:![fuck](./fuck)
 |1|2|3|
 |4|4|4|
 
-$ f(x) = x
-$ q \in R $
+$$ f(x) = x
+$$ q \in R $
 
 $$
 \begin{align*}
@@ -113,3 +113,9 @@ $$
 $$
 
 $$ x^2 $$
+
+<img src="http://www.forkosh.com/mathtex.cgi? 在此处插入Latex公式"><img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+
+<img src="http://www.forkosh.com/mathtex.cgi? 在此处插入Latex公式">
+
+<img src="http://latex.codecogs.com/gif.latex?35*d_5+1(\oe%20)"  />
