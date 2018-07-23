@@ -37,6 +37,8 @@ _____________________________________________
 ## content
 
 [TOC]
+* TOC
+{:toc}
 
 >helloworld  
 int i  = 0
@@ -109,3 +111,5 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+
+$$ x^2 $$
