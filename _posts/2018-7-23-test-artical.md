@@ -117,6 +117,20 @@ $$
 $$
 
 $$ x^2 $$
-and next: $\frac{-b \pm \sqrt{b^2-4ac}}{2a} $
+and next: 
+
+$\frac{-b \pm \sqrt{b^2-4ac}}{2a} $
+
 $ ax+b $
+$$ ax+b $$
+
+* TOC
+{:toc}
+
+* TOC
+{:tod}
+
+* TOD
+{:toc}
+
 $ \vec a $
