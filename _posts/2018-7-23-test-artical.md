@@ -122,6 +122,7 @@ and next:
 $\frac{-b \pm \sqrt{b^2-4ac}}{2a} $
 
 $ ax+b $
+
 $$ ax+b $$
 
 * TOC

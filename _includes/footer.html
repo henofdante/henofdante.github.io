@@ -37,11 +37,12 @@
                     </li>
                     {% endif %}
                     {% if site.weibo_username %}
+                    
                     <li>
                         <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                                <i class="fa fa-weibo fa-stack-1x fa-inverse">weibo</i>
                             </span>
                         </a>
                     </li>
@@ -68,6 +69,13 @@
                         </a>
                     </li>
                     {% endif %}
+                    <li>
+                        <!--<iframe
+                            style="margin-left: 2px; margin-bottom:-5px;"
+                            frameborder="0" scrolling="0" width="91px" height="20px"
+                            src="https://ghbtns.com/github-btn.html?user=huxpro&repo=huxpro.github.io&type=star&count=true" >
+                        </iframe>-->
+                    </li>
                 </ul>
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
